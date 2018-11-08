@@ -6,3 +6,17 @@ The other columns in the dataset include information about community names, coun
 The state column which was missing from the dataset was added to it based on the enrichment dataset viz cities.json available on the link below which contains mappings of latitude and longitude co-ordinates to their respective cities and states.
 
 Base and Enrichment Dataset Location: https://www.kaggle.com/kkanda/analyzing-uci-crime-and-communities-dataset/data
+
+To the data set the below machine learning algorithms are applied
+* KMeans
+* GMM
+* Linear Regression
+* Logistic Regression
+* Decison Trees
+* Naive Bayes
+* Random Forests
+* Support Vector Machine
+* Principal Components Analysis
+* KNN
+
+Thereby all these algorithms are applied to different use cased based on the problem type whether it is a Classification, Regression ot Clusterring problem. Finally a story is formed which gives a conclusion of the crime analysis.
